@@ -6,7 +6,7 @@ import dune_logo from './logos/dune-london-logo.svg';
 import his_and_hers_logo from './logos/his-and-hers-logo.svg';
 import rituals_logo from './logos/rituals-logo.svg';
 import r_and_b_logo from './logos/r-and-b-logo.svg';
-import tommy_logo from './logos/tommy-logo.svg';
+// import tommy_logo from './logos/tommy-logo.svg';
 import steve_madden_logo from './logos/steve-madden-logo.svg';
 
 export const data_list = [
@@ -15,8 +15,8 @@ export const data_list = [
     brand: '6thstreet',
     logo: _6thstreet_logo,
     offer1: '30-70% Off',
-    offer2: 'On selected styles',
-    link: 'https://www.6thstreet.com/',
+    offer2: 'On Selected Styles',
+    link: 'https://en-ae.6thstreet.com/',
   },
   {
     id: 2,
@@ -24,8 +24,8 @@ export const data_list = [
     logo: aldo_logo,
 
     offer1: '30-70% Off',
-    offer2: 'On selected lines',
-    link: 'https://www.aldoshoes.me/ae/en/',
+    offer2: 'On Selected Lines',
+    link: 'https://www.aldoshoes.me/ae/en/sale.html',
   },
   {
     id: 3,
@@ -33,8 +33,8 @@ export const data_list = [
     logo: baverly_logo,
 
     offer1: '25-50% Off',
-    offer2: 'On selected lines',
-    link: 'https://www.bhpoloclub.com/',
+    offer2: 'On Selected Lines',
+    link: 'https://en-ae.bhpcglobal.com/',
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ export const data_list = [
     logo: crocs_logo,
 
     offer1: 'Flat 50% Off',
-    offer2: ' On selected items',
+    offer2: ' On Selected Items',
     link: 'https://en-ae.crocsgulf.com/',
   },
   {
@@ -51,7 +51,7 @@ export const data_list = [
     logo: dune_logo,
 
     offer1: '30-70% Off',
-    offer2: 'On selected lines',
+    offer2: 'On Selected Lines',
     link: 'https://en.dunelondon.ae/',
   },
   {
@@ -70,7 +70,7 @@ export const data_list = [
 
     offer1: '30% Off',
     offer2: 'On Selected Items',
-    link: 'https://www.rituals.com/',
+    link: 'https://en-ae.rituals.com/great-online-sale.html',
   },
   {
     id: 8,
@@ -86,15 +86,15 @@ export const data_list = [
     brand: 'steve madden',
     logo: steve_madden_logo,
     offer1: '30% - 70% Off',
-    offer2: 'On select styles',
+    offer2: 'On Select Styles',
     link: 'https://stevemadden.me/',
   },
-  {
-    id: 10,
-    brand: 'tommy',
-    logo: tommy_logo,
-    offer1: '25-50% Off',
-    offer2: 'On selected styles',
-    link: 'https://en-ae.tommy.com/',
-  },
+  // {
+  //   id: 10,
+  //   brand: 'tommy',
+  //   logo: tommy_logo,
+  //   offer1: '25-50% Off',
+  //   offer2: 'On selected styles',
+  //   link: 'https://en-ae.tommy.com/',
+  // },
 ];
