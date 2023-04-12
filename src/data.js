@@ -6,7 +6,7 @@ import dune_logo from './logos/dune-london-logo.svg';
 import his_and_hers_logo from './logos/his-and-hers-logo.svg';
 import rituals_logo from './logos/rituals-logo.svg';
 import r_and_b_logo from './logos/r-and-b-logo.svg';
-// import tommy_logo from './logos/tommy-logo.svg';
+import tommy_logo from './logos/tommy-logo.svg';
 import steve_madden_logo from './logos/steve-madden-logo.svg';
 
 export const data_list = [
@@ -89,12 +89,12 @@ export const data_list = [
     offer2: 'On Select Styles',
     link: 'https://stevemadden.me/',
   },
-  // {
-  //   id: 10,
-  //   brand: 'tommy',
-  //   logo: tommy_logo,
-  //   offer1: '25-50% Off',
-  //   offer2: 'On selected styles',
-  //   link: 'https://en-ae.tommy.com/',
-  // },
+  {
+    id: 10,
+    brand: 'tommy',
+    logo: tommy_logo,
+    offer1: '25-50% Off',
+    offer2: 'On Selected Styles',
+    link: 'https://en-ae.tommy.com/',
+  },
 ];
