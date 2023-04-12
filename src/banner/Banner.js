@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import banner_img from './banner_img.jpg';
-import mobile_img from './mobile_img.png';
+import banner_img from './banner_img.webp';
+import mobile_img from './mobile_img.webp';
 export default function Banner() {
   const [bg, setBg] = useState();
 
