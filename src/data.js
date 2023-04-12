@@ -22,7 +22,6 @@ export const data_list = [
     id: 2,
     brand: 'aldo',
     logo: aldo_logo,
-
     offer1: '30-70% Off',
     offer2: 'On Selected Lines',
     link: 'https://www.aldoshoes.me/ae/en/sale.html',
@@ -31,7 +30,6 @@ export const data_list = [
     id: 3,
     brand: 'baverly hills',
     logo: baverly_logo,
-
     offer1: '25-50% Off',
     offer2: 'On Selected Lines',
     link: 'https://en-ae.bhpcglobal.com/',
@@ -40,7 +38,6 @@ export const data_list = [
     id: 4,
     brand: 'crocs',
     logo: crocs_logo,
-
     offer1: 'Flat 50% Off',
     offer2: ' On Selected Items',
     link: 'https://en-ae.crocsgulf.com/',
@@ -49,7 +46,6 @@ export const data_list = [
     id: 5,
     brand: 'dune',
     logo: dune_logo,
-
     offer1: '30-70% Off',
     offer2: 'On Selected Lines',
     link: 'https://en.dunelondon.ae/',
@@ -58,7 +54,6 @@ export const data_list = [
     id: 6,
     brand: 'his & hers',
     logo: his_and_hers_logo,
-
     offer1: 'Flat 60% Off',
     offer2: '',
     link: 'https://www.hishers.com/ae/en/',
@@ -67,7 +62,6 @@ export const data_list = [
     id: 7,
     brand: 'rituals',
     logo: rituals_logo,
-
     offer1: '30% Off',
     offer2: 'On Selected Items',
     link: 'https://en-ae.rituals.com/great-online-sale.html',
@@ -76,7 +70,6 @@ export const data_list = [
     id: 8,
     brand: 'r&b',
     logo: r_and_b_logo,
-
     offer1: '30-70% Off',
     offer2: '',
     link: 'https://en-ae.randbfashion.com/',
